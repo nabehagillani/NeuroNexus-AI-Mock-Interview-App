@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NeuroNexus</string>
+    <string name="title_activity_main">NeuroNexus</string>
+    <string name="package_name">com.apexmind.neuronexus</string>
+    <string name="custom_url_scheme">com.apexmind.neuronexus</string>
+</resources>
